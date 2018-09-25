@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">BroadcastReceiverServiceNotification</string>
+    <string name="app_name">Play Music Demo</string>
+    <string name="default_value_song_time">00:00</string>
+    <string name="default_value_song_name">Song Name</string>
 </resources>
